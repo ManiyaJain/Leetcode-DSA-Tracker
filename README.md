@@ -38,7 +38,6 @@ Each file corresponds to one LeetCode problem.
 ## 🧑‍💻 Tech Stack
 
 - Programming Language: **Java**  
-  *(Other languages might be added later as I explore more)*
 
 - Platform: [LeetCode](https://leetcode.com/)
 
